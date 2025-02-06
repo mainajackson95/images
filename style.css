@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: auto;
+}
+
+div {
+    max-width: 600px;
+    max-height: 500px; 
+    position:absolute;
+}
+
+.wind-person{
+    position: relative;
+   align-items: center;
+   justify-content: center;
+   justify-items: center;
+   align-content: center;
+}
